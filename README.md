@@ -31,8 +31,8 @@ We've also included survey questions for FOSS Fund awardees, to better understan
 These questions should all be optional.
 
 - FOSS Fund
-  - [Funding Use](foss-fund/use.md)
-  - [Funding Support Gaps](foss-fund/support-gaps.md)
+  - [Funding Use](foss-fund/award-usefulness.md)
+  - [Funding Support Gaps](foss-fund/gaps.md)
   - [Diversity and Inclusion Support](foss-fund/inclusion.md)
 
 ## Question Standards
@@ -56,7 +56,7 @@ With 'Other' being a place people can elborate on why none of those responses fi
 
 ## Contributing
 
-Contributions are welcome!  Please checkout our [CONTRIBUTING.md](contributing.md) file to learn more.
+Contributions are welcome!  Please checkout our [CONTRIBUTING.md](CONTRIBUTING.md) file to learn more.
 
 ---
 
