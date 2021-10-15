@@ -1,4 +1,4 @@
-#Award Usefulness
+# Award Usefulness
 This is to help undestand ways in which funding helps (or rather to test hypothesis around that).
 We also want to understand what blockers might be to using funds.
 
