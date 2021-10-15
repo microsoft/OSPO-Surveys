@@ -22,6 +22,7 @@ Beneath each topic are, is the list of questions.
     - [Contribution Types](company-opensource/participation/contribution-types.md)
     - [Participation - Current](company-opensource/participation/recent-participation.md)
     - [Participation - Goals](company-opensource/participation/participation-future.md)
+    - [Support Needed](company-opensource/participation/support-needed.md)
   - Recognition/Belonging
     - [Belonging](company-opensource/recognition-belonging/community-belonging.md)
     - [Recognition](company-opensource/recognition-belonging/company-recognition.md)
