@@ -23,10 +23,12 @@ Beneath each topic are, is the list of questions.
     - [Participation - Current](company-opensource/participation/recent-participation.md)
     - [Participation - Goals](company-opensource/participation/participation-future.md)
     - [Support Needed](company-opensource/participation/support-needed.md)
+    - [Upstream Security](company-opensource/security/upstream-risks.md)
   - Recognition/Belonging
     - [Belonging](company-opensource/recognition-belonging/community-belonging.md)
     - [Recognition](company-opensource/recognition-belonging/company-recognition.md)
     - [Manager Alignment](company-opensource/recognition-belonging/manager-support.md)
+
   
 We've also included survey questions for FOSS Fund awardees, to better understand how to support maintainers with and beyond the fund.
 These questions should all be optional.
