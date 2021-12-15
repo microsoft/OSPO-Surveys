@@ -17,6 +17,11 @@ To be clear, this question is only to get at someone's perception of manager sup
 - Other _________________
 
 
-Copyright (c) Microsoft Corporation.
+**What type of resources would be helpful to you in manager discussion?**
+- Reports on your OSS activities on GitHub
+- A way to track and report on my non-GitHub contribution
+- Recognition of high-value contribution (i.e. impacting security of a project, improving DEI)
+- Leaderboards
+- Kudos or badging acknowledgements
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

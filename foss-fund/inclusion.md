@@ -5,6 +5,6 @@ For Funds encouraging nomination of projects actively working on diversity, equi
 __________________________
 
 
-Copyright (c) Microsoft Corporation.
+
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

@@ -7,6 +7,12 @@
 - Strongly Disagree
 - Other _________________
 
-Copyright (c) Microsoft Corporation.
+**I have the language and tools to describe how my work in open source brings value to our customers.**
+- Strongly Agree
+- Agree
+- Disagree
+- Strongly Disagree
+- Other ____________________________
+
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

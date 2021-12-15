@@ -10,6 +10,6 @@ People may have previous experience longer than a year ago, but getting at their
 - [ ] Other________________________________________
 
 
-Copyright (c) Microsoft Corporation.
+
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

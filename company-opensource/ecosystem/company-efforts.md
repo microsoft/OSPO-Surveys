@@ -9,6 +9,5 @@ This question is to better understand sentiment around the role of the company i
 - Strongly Disagree
 - Other ____________________________
 
-Copyright (c) Microsoft Corporation.
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

@@ -7,11 +7,11 @@ Not everyone will be sure of which projects are InnerSource, providing a list wo
 **NOTE: Contributing to InnerSource means contributing to a project that has not been publically released, and does does not have an open source license.**
 
 **In the LAST YEAR...**
-- [ ] As part of my work, I have used an InnerSource project.
-- [ ] As part of my work, I have contributed to an InnerSource project.
-- [ ] As part of my work, I/we have accepted InnerSource contrbibutions.
-- [ ] Other________________________________________
+- As part of my work, I have used an InnerSource project.
+- As part of my work, I have contributed to an InnerSource project.
+- As part of my work, I/we have accepted InnerSource contributions.
+- Other________________________________________
 
-Copyright (c) Microsoft Corporation.
+
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

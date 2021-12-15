@@ -8,6 +8,6 @@ Belonging to internal communities includes a number of attributes: Empowerment, 
 - Strongly Disagree
 - Other _________________
 
-Copyright (c) Microsoft Corporation.
+
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

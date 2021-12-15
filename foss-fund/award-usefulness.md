@@ -15,10 +15,10 @@ We also want to understand what blockers might be to using funds.
 - Technology or services
 - Other ___________
 
-**If you answered ‘I haven’t used it’, please use this space to describe any obstacles or challenges you’ve experienced in allocating the funds?**
+**If you answered ‘I haven’t used it’, please use this space to describe any obstacles or challenges you’ve experienced in allocating the funds**
 ____________
 
 
-Copyright (c) Microsoft Corporation.
+
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

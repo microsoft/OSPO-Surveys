@@ -10,6 +10,6 @@ The [data and metrics type](data-metrics-types.md) can help you dig into gaps a 
 - Other ________________
 
 
-Copyright (c) Microsoft Corporation.
+
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.
