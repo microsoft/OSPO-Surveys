@@ -12,6 +12,10 @@ One of the best ways to learn about the project, take a look through the [README
 
 # How to get involved
 Ready to jump in?  Great!   Here are some ways you can help:
+- typos
+- suggestions for improvement
+- submit PRs for other questions you use, and recommend
+- translation
 
 ## Found an Issue?
 If you find a bug in the source code or a mistake in the documentation, you can help us by
