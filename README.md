@@ -17,17 +17,21 @@ Beneath each topic are, is the list of questions.
   - Open Source Maintainer
     - [Existing Data and Metrics](company-opensource/maintainer/data-metrics.md)
     - [Data and Metric Needs](company-opensource/maintainer/data-metrics-outcome.md)
-    - [Leadership Roles](company-opensource/maintainer/roles.md)
   - Open Source Participation
     - [Contribution Types](company-opensource/participation/contribution-types.md)
+    - [Leadership Roles](company-opensource/maintainer/roles.md)
     - [Participation - Current](company-opensource/participation/recent-participation.md)
     - [Participation - Goals](company-opensource/participation/participation-future.md)
-    - [Support Needed](company-opensource/participation/support-needed.md)
     - [Upstream Security](company-opensource/security/upstream-risks.md)
   - Recognition/Belonging
     - [Belonging](company-opensource/recognition-belonging/community-belonging.md)
-    - [Recognition](company-opensource/recognition-belonging/company-recognition.md)
+    - [Recognition](company-opensource/recognition-belonging)
     - [Manager Alignment](company-opensource/recognition-belonging/manager-support.md)
+   - Security
+      - [Understanding the Upstream](https://github.com/microsoft/OSPO-Surveys/blob/main/company-opensource/security/upstream-risks.md)
+    - [Support Needed]
+      - [OS Strategy](company-opensource/support-resources/strategy.md)
+      - [Support Requests](company-opensource/participation/support-needed.md)
 
   
 We've also included survey questions for FOSS Fund awardees, to better understand how to support maintainers with and beyond the fund.
