@@ -19,6 +19,6 @@ We also want to understand what blockers might be to using funds.
 ____________
 
 
-Copyright (c) Microsoft Corporation.
+
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

@@ -10,6 +10,6 @@ You will want to make sure the correct answer for your company is listed as a ch
 - Other _________________
 
 
-Copyright (c) Microsoft Corporation.
+
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

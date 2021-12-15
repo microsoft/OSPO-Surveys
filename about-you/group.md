@@ -7,6 +7,6 @@ These will of course differ from company to company.
 
 
 
-Copyright (c) Microsoft Corporation.
+
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

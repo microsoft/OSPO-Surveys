@@ -17,6 +17,5 @@ How your employees feel about their role in open source can be directly tied to 
 - Other _________________
 
 
-Copyright (c) Microsoft Corporation.
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

@@ -21,6 +21,6 @@ Maximum of 3 otherwise, its likely people will select all.  These options are de
 - Other ______________________
 
 
-Copyright (c) Microsoft Corporation.
+
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.

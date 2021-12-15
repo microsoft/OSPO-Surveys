@@ -8,6 +8,5 @@ As perhaps obvious, this question gets at people's intention for the future. Kee
 - Other _________________
 
 
-Copyright (c) Microsoft Corporation.
 
 Licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license.
