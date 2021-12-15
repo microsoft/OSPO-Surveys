@@ -29,7 +29,7 @@ Beneath each topic are, is the list of questions.
     - [Manager Alignment](company-opensource/recognition-belonging/manager-support.md)
    - Security
       - [Understanding the Upstream](https://github.com/microsoft/OSPO-Surveys/blob/main/company-opensource/security/upstream-risks.md)
-    - [Support Needed]
+    - Support Needed
       - [OS Strategy](company-opensource/support-resources/strategy.md)
       - [Support Requests](company-opensource/participation/support-needed.md)
 
