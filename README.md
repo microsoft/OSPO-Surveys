@@ -1,4 +1,4 @@
-# OSPO-Surveys
+# Microsoft OSPO-Surveys
 A collection of survey questions we've used at Microsoft's Open Source Programs Office (OSPO).
 
 ## Categories
@@ -12,20 +12,23 @@ Beneath each topic are, is the list of questions.
   - [Participation](company-innersource/participation/recent-activity.md)
 - Company Open Source
   - Ecosystem
-    - [Company Efforts](company-opensource/ecosystem/company-efforts.md)
-    - [External Sentiment](company-opensource/ecosystem/external-sentiment.md)
+    - [Evaluation of Company Efforts](company-opensource/ecosystem/company-efforts.md)
+    - [Sentiment](company-opensource/ecosystem/external-sentiment.md)
   - Open Source Maintainer
-    - [data-metrics](company-opensource/maintainer/data-metrics.md)
-    - [data-metrics-outcome](company-opensource/maintainer/data-metrics-outcome.md)
-    - [roles](company-opensource/maintainer/roles.md)
+    - [Existing Data and Metrics](company-opensource/maintainer/data-metrics.md)
+    - [Data and Metric Needs](company-opensource/maintainer/data-metrics-outcome.md)
+    - [Leadership Roles](company-opensource/maintainer/roles.md)
   - Open Source Participation
     - [Contribution Types](company-opensource/participation/contribution-types.md)
     - [Participation - Current](company-opensource/participation/recent-participation.md)
-    - [Participation - Future](company-opensource/participation/participation-future.md)
+    - [Participation - Goals](company-opensource/participation/participation-future.md)
+    - [Support Needed](company-opensource/participation/support-needed.md)
+    - [Upstream Security](company-opensource/security/upstream-risks.md)
   - Recognition/Belonging
-    - [Internal-oss-community](company-opensource/recognition-belonging/community-belonging.md)
-    - [Company-recognition](company-opensource/recognition-belonging/company-recognition.md)
-    - [Manager-support](company-opensource/recognition-belonging/manager-support.md)
+    - [Belonging](company-opensource/recognition-belonging/community-belonging.md)
+    - [Recognition](company-opensource/recognition-belonging/company-recognition.md)
+    - [Manager Alignment](company-opensource/recognition-belonging/manager-support.md)
+
   
 We've also included survey questions for FOSS Fund awardees, to better understand how to support maintainers with and beyond the fund.
 These questions should all be optional.
