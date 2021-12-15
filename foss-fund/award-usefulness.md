@@ -1,4 +1,4 @@
-#Award Usefulness
+# Award Usefulness
 This is to help undestand ways in which funding helps (or rather to test hypothesis around that).
 We also want to understand what blockers might be to using funds.
 
@@ -15,7 +15,7 @@ We also want to understand what blockers might be to using funds.
 - Technology or services
 - Other ___________
 
-**If you answered ‘I haven’t used it’, please use this space to describe any obstacles or challenges you’ve experienced in allocating the funds?**
+**If you answered ‘I haven’t used it’, please use this space to describe any obstacles or challenges you’ve experienced in allocating the funds**
 ____________
 
 
